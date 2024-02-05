@@ -35,13 +35,16 @@
         "useHookAtTopLevel": "error"
       },
       "style": {
+        "recommended": true,
         "noImplicitBoolean": "error",
         "useSelfClosingElements": "error",
         "noCommaOperator": "error",
         "noNegationElse": "error",
         "noUselessElse": "error",
         "noVar": "error",
-        "useBlockStatements": "error"
+        "useBlockStatements": "error",
+        "useNamingConvention": "error",
+        "useShorthandArrayType": "error"
       },
       "complexity": {
         "all": true,
